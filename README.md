@@ -19,7 +19,7 @@ Solène vous a assigné plusieurs tâches critiques pour évaluer la faisabilit�
    Enumérez trois solutions possibles de centralisation et de gestion des logs. Une solution basée sur un Cloud PRovider, une solution basée sur un logiciel commercial et une solution basée sur un ou plusieurs logiciels open source.
    Pour chaque solution, proposez maximum 2 slides PPT mettant en avant une description de la solution et son niveau de compléxité d'installation et de maintenance, un schéma d'architecture de la solution ainsi qu'une étude simple des coûts.
    
- 2. **Le comparatifs**  
+ 2. **Le comparatif**  
    Présentez un comparatif de vos solutions proposées (sous forme d'un slide PPT contenant un tableau comparatif). Choisissez les dimension de comparaison que vous jugerez pertinents.
    Mettez en avant la solution ELK (open source) et défendez ses avantages.
 
@@ -65,7 +65,7 @@ La solution retenue que vous souhaitez lui dédier un POC est une plateforme ELK
 
 
 
-### Présentation et envoi des présentations
+### Présentation et envoi des PPT
 
 - Chaque équipe doit présenter son étude collectivement et une démonstration de ses travaux dans un temps définit.
 - Les PPT doivent être envoyés à l'intervenant : raouf.amdouni@intervenants.efrei.net
