@@ -44,11 +44,11 @@ La solution retenue que vous souhaitez lui dédier un POC est une plateforme ELK
    Solène souhaite comprendre comment les logs des conteneurs Docker seront collectés par Logstash.  
    Rédigez un fichier de configuration `logstash.conf` qui permettra de collecter les logs des conteneurs Docker et de les envoyer à Elasticsearch. Expliquez également les principaux paramètres de cette configuration. (max 2 slides PPT)
 
-5. **Déploiement d'une application générant des logs (15 points)**  
+5. **Déploiement d'une application générant des logs**  
    Pour tester la solution de centralisation des logs, il est nécessaire de déployer une application qui génère des logs.  
    Déployez une application simple (par exemple, un serveur Nginx) sur le réseau Docker. Décrivez les commandes utilisées pour ce déploiement et expliquez comment vérifier que les logs sont bien collectés par Logstash. (max 1 slide ppt)
 
-### Partie 3 : Analyse des logs et recommandations (40 points)
+### Partie 3 : Analyse des logs et recommandations
 
 6. **Accès et configuration de Kibana**  
    Décrivez comment accéder à Kibana et configurer un index pattern pour visualiser les logs collectés. Quels sont les éléments clés à vérifier dans Kibana pour s'assurer que la configuration est correcte ?
